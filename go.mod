@@ -1,4 +1,4 @@
-module kafak-examples
+module github.com/connect2naga/kafak-examples
 
 go 1.16
 
